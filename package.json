@@ -6,6 +6,10 @@
   "scripts": {
     "start": "nodemon server.js"
   },
+  "engines": {
+    "node": "8.5.0",
+    "npm": "5.8.0"
+  },
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
